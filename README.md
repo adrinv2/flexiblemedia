@@ -69,8 +69,19 @@ Material is archived and transcoded into multiple mediums as a way to protect th
 
   ![](/assets/images/exterior2.jpg)
   ![](/assets/images/exterior.jpg)
-  ![](/assets/images/cross-section.jpg)
+![](/assets/images/cross-section.jpg)
   ![](/assets/images/above-view.jpg)
 
 
 ## Process on SketchUp
+
+![](/assets/images/firsttest1.png)
+![](/assets/images/firsttest2.png)
+![](/assets/images/firsttest3.png)
+![](/assets/images/firsttest4.png)
+![](/assets/images/firsttest5.png)
+![](/assets/images/firsttest6.png)
+![](/assets/images/secondtest1.png)
+![](/assets/images/secondtest2.png)
+![](/assets/images/secondtest3.png)
+![](/assets/images/secondtest4.png)
