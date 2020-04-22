@@ -46,6 +46,7 @@ Material is archived and transcoded into multiple mediums as a way to protect th
 
 [➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤[*BACK TO TABLE OF CONTENTS*](#table-of-contents)]
 ----
+
 ## Sources of inspiration
 
 ###SketchUp tutorials
@@ -59,3 +60,17 @@ Material is archived and transcoded into multiple mediums as a way to protect th
 ![](/assets/images/IST.png)
 ![](/assets/images/IST2.png)
 ![](/assets/images/IST3.png)
+
+
+[➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤[*BACK TO TABLE OF CONTENTS*](#table-of-contents)]
+----
+
+## Hand drawn sketches
+
+  ![](/assets/images/exterior2.jpg)
+  ![](/assets/images/exterior.jpg)
+  ![](/assets/images/cross-section.jpg)
+  ![](/assets/images/above-view.jpg)
+
+
+## Process on SketchUp
