@@ -3,7 +3,7 @@
 
 ## Table of Contents
 ---
->> -[First aim](#first-aim)
+>> - [First aim](#first-aim)
 >>  - [About the Space Archive](#about-the-space-archive)
 >>  - [Sources of inspiration](#sources-of-inspiration)
 >>    - [SketchUp tutorials](#sketchup-tutorials)
