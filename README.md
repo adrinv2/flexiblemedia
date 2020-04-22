@@ -35,3 +35,8 @@ Material is archived and transcoded into multiple mediums as a way to protect th
 - _Privacy laws_ are ever changing, and with the growth of technology intimacy and privacy disappear. To keep a certain level of privacy, it would have to be external to Earth, where different laws apply.
 
 - _Protection of sensitive material_ is key to this social movement. The more withdrawn from danger and forces that could intervene, the safer it is.  
+
+*Outcomes*
+
+- _Primary desired outcome:_ An interactive space through which users can navigate and learn about.
+- _Back up outcome:_ Still images and video clips to create a montage of the space archive. 
