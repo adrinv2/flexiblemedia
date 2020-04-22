@@ -44,7 +44,6 @@ Material is archived and transcoded into multiple mediums as a way to protect th
 1. _Primary desired outcome:_ An interactive space through which users can navigate and learn about.
 2. _Back up outcome:_ Still images and video clips to create a montage of the space archive.
 
-____
-[➽ Back to table of contents](#table-of-contents)
+![➽ Back to table of contents](#table-of-contents)
 ----
 ## Sources of inspiration
