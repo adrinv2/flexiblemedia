@@ -49,14 +49,14 @@ Material is archived and transcoded into multiple mediums as a way to protect th
 
 ## Sources of inspiration
 
-###SketchUp tutorials
+### SketchUp tutorials
 
 - Organic modelling [x](https://www.youtube.com/watch?v=5ILhp3JpysU)
 - Modelling complex structures, more organic ones [x](https://www.youtube.com/watch?v=2EKyf5pI55c)
 - Modelling a space station (two part tutorial) [x](https://youtu.be/v7vDm5nYnr8)
 - Add 3D objects to a photograph [x](https://www.youtube.com/watch?v=2-_xLCOqWQs)
 
-###Visual References
+### Visual References
 ![](/assets/images/IST.png)
 ![](/assets/images/IST2.png)
 ![](/assets/images/IST3.png)
@@ -74,7 +74,7 @@ Material is archived and transcoded into multiple mediums as a way to protect th
 
   [➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤[*BACK TO TABLE OF CONTENTS*](#table-of-contents)]
   ----
-  
+
 ## Process on SketchUp
 
 ![](/assets/images/firsttest1.png)
