@@ -44,10 +44,18 @@ Material is archived and transcoded into multiple mediums as a way to protect th
 1. _Primary desired outcome:_ An interactive space through which users can navigate and learn about.
 2. _Back up outcome:_ Still images and video clips to create a montage of the space archive.
 
-[➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤[*BACK TO TABLE OF CONTENTS*](#table-of-contents)]
+[➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤➤[*BACK TO TABLE OF CONTENTS*](#table-of-contents)]
 ----
 ## Sources of inspiration
 
+###SketchUp tutorials
+
+- Organic modelling [x](https://www.youtube.com/watch?v=5ILhp3JpysU)
+- Modelling complex structures, more organic ones [x](https://www.youtube.com/watch?v=2EKyf5pI55c)
+- Modelling a space station (two part tutorial) [x](https://youtu.be/v7vDm5nYnr8)
+- Add 3D objects to a photograph [x](https://www.youtube.com/watch?v=2-_xLCOqWQs)
+
+###Visual References
 ![](/assets/images/IST.png)
 ![](/assets/images/IST2.png)
 ![](/assets/images/IST3.png)
