@@ -27,6 +27,11 @@ This group would go by the name of "Tutela". The name originates directly from t
 
 *Who is Tutela?*
 
-A group of people who stand for archiving as a means to protect sensitive material (of politically opposing ideals to a certain group that puts them in a position of danger. (Eg: censoring/persecuting government, war, …).
+Tutela is a group of people who stand for archiving as a means to protect sensitive material (of politically opposing ideals to a certain group that puts them in a position of danger. (Eg: censoring/persecuting government, war, …). They are backed up by a legal code that protects the cultural and historical record to avoid the extinction of their existence.
 
-Material is archived and transcoded into multiple mediums as a way to protect the existence of the material.  
+Material is archived and transcoded into multiple mediums as a way to protect the longevity the material. Tutela has an active lab, discovering new ways of transcoding and preservation. After it is transcoded, copies of it are sent out to the Space Archive, where they are protected and maintained.
+
+*Why space?*
+- _Privacy laws_ are ever changing, and with the growth of technology intimacy and privacy disappear. To keep a certain level of privacy, it would have to be external to Earth, where different laws apply.
+
+- _Protection of sensitive material_ is key to this social movement. The more withdrawn from danger and forces that could intervene, the safer it is.  
